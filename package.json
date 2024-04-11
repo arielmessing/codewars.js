@@ -1,0 +1,16 @@
+{
+  "name": "codewarsjs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"run: npx mocha <testfile>\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.3.0",
+    "chai": "^5.1.0"
+  }
+}
